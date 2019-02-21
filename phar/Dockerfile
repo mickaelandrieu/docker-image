@@ -10,6 +10,7 @@ RUN apk --update --progress --no-cache --repository http://dl-cdn.alpinelinux.or
     php7-dom \
     php7-fileinfo \
     php7-ftp \
+    php7-gd \
     php7-iconv \
     php7-json \
     php7-mbstring \
